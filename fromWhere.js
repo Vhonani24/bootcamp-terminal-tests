@@ -1,4 +1,4 @@
-function fromWhere(reg){
+module.exports = function(reg){
     if(typeof(reg) != 'string'){
       return false;
     }
