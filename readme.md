@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/Vhonani24/bootcamp-terminal-tests.svg?branch=main)](https://travis-ci.org/Vhonani24/bootcamp-terminal-tests)
+[![Build Status](https://www.travis-ci.com/Vhonani24/bootcamp-terminal-tests.svg?branch=main)](https://www.travis-ci.com/Vhonani24/bootcamp-terminal-tests)
